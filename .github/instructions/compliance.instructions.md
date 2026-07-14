@@ -1,6 +1,6 @@
 ---
 description: Guidance for creating more compliant code and documentation.
-applyTo: **
+applyTo: '**'
 ---
 
 # Compliance Instructions
